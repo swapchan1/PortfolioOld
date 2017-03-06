@@ -44,11 +44,14 @@ $(document).ready(function () {
 
         if (windowsWidth > windowsHeight) {
 
-            $('.introduction , .menu').css({
-                width: '50%',
+            $('.introduction').css({
+                width: '40%',
                 height: '100%'
             });
-
+            $('.menu').css({
+                width: '60%',
+                height: '100%'
+            });
         } else {
 
             $('.introduction , .menu').css({
@@ -74,8 +77,7 @@ $(document).ready(function () {
         } else {
 
             bgImage.css({
-                width: 'auto',
-                height: '100%'
+                width: '100%'
             });
 
         }
