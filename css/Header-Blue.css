@@ -45,6 +45,7 @@
 .header-blue .navbar .navbar-brand {
   font-weight:bold;
   color:inherit;
+  font-size: xx-large;
 }
 
 .header-blue .navbar .navbar-brand:hover {
