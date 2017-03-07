@@ -1300,7 +1300,7 @@ body {
     background: #6A8D9D;
     padding: 10px 20px 6px 20px;
     bottom: 0;
-    position: absolute;
+    position: fixed;
     width: 100%;
 }
 
