@@ -77,7 +77,7 @@ $(document).ready(function () {
         } else {
 
             bgImage.css({
-                width: '100%'
+                width: '40%'
             });
 
         }
